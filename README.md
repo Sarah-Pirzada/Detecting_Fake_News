@@ -1,3 +1,4 @@
 This Python code is a comprehensive fake news detection implementation using the Passive Aggressive Classifier. It begins by loading a dataset containing news articles and provides information about the dataset, including its structure and the first few rows. Visualizations are incorporated to display the class distribution of fake and real news articles. The script then proceeds to split the dataset into training and testing sets, initializes a Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer, and trains a Passive Aggressive Classifier on the training data. The accuracy of the model is evaluated and visualized through a confusion matrix. Additionally, learning curves are generated to illustrate how the model's performance evolves with varying training dataset sizes. The code concludes by training a new instance of the model and using it to predict the authenticity of a provided news article. 
 
-Dataset is added in the repository.
+Dataset:
+https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
